@@ -1,1 +1,1 @@
-web: bundle exec ruby ping.rb
+web:bundle exec ruby ping.rb
